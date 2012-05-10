@@ -15,7 +15,7 @@
 import os
 
 srcdir = "/Users/jbrake/Desktop/RedHatPatches/"
-wikifile = '/Users/jbrake/Desktop/redhatwikimarkup.txt'
+#wikifile = '/Users/jbrake/Desktop/redhatwikimarkup.txt'
 #wfile = open(wikifile, 'w')
 
 advisoryurl = ""
