@@ -1,2 +1,7 @@
 # This is a script that takes the RedHat security update emails saved to 'srcdir' and strips out the
 # relevant information and formats it in 'wiki markup' to allow for quicker wiki page updates (copy / paste)
+
+EXAMPLE:
+
+| 2012-05-07 | ImageMagick security and bug fix update | ImageMagick-perl-6.2.8.0-15.el5_8.x86_64.rpm | {color:#ffcc00}{*}3-Moderate{*}{color} | Red Hat Enterprise Linux (v. 5 server) | | | | https://www.redhat.com/security/data/cve/CVE-2012-0260.html |
+| 2012-05-07 | php security update | php-zts-5.3.3-3.el6_2.8.x86_64.rpm | {color:#ff0000}{*}1-Critical{*}{color} | Red Hat Enterprise Linux (v. 5 server) | | | | https://www.redhat.com/security/data/cve/CVE-2012-1823.html |
