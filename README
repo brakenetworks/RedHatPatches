@@ -1,0 +1,2 @@
+# This is a script that takes the RedHat security update emails saved to 'srcdir' and strips out the
+# relevant information and formats it in 'wiki markup' to allow for quicker wiki page updates (copy / paste)
