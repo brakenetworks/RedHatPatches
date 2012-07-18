@@ -68,7 +68,6 @@ def getIssueDate(filepath):
 		if "Issue date" in line:
 			issuedate = line
 			issuedate = issuedate[19:]
-			issuedate = issuedate.replace("\n","")
 			issueDateList.append(issuedate.strip())
 	file.close()
 	
