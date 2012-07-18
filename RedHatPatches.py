@@ -149,4 +149,5 @@ def main():
 	#testListLength(issueDateList,synopsisList,patchVersionList,priorityList,serverVerList,advisoryUrlList)
 	generateWikiMarkup(issueDateList,synopsisList,patchVersionList,priorityList,serverVerList,advisoryUrlList)
 	
-main()
+if __name__=="__main__":
+	main()
